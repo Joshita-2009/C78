@@ -1,0 +1,9 @@
+body{
+    background:radial-gradient(blue 0%, pink 100%);
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-variant: small-caps;
+    color: pink;
+}
+h1,h4{
+    font-size: 40px!important;
+}
